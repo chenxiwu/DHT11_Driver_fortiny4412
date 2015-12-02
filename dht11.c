@@ -334,3 +334,7 @@ module_init(dht11_dev_init);
 module_exit(dht11_dev_exit);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Rzy");
+
+asdfasdfas
+asdfadsfa
+asdfasf
